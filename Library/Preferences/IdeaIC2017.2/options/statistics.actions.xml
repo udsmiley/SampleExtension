@@ -1,9 +1,0 @@
-<application>
-  <component name="ActionsCollector">
-    <counts>
-      <entry action="EditorBackSpace" count="1" />
-      <entry action="Replace" count="1" />
-      <entry action="Run" count="1" />
-    </counts>
-  </component>
-</application>
