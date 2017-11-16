@@ -1,0 +1,9 @@
+<application>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Backspace" count="1" />
+      <entry shortcut="Meta+R" count="1" />
+      <entry shortcut="Shift+F10" count="1" />
+    </counts>
+  </component>
+</application>
